@@ -1,0 +1,1 @@
+./heart -name lesbian -colors #D62900,#FF9B55,#FFFFFF,#D461A6,#A50062
